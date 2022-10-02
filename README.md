@@ -1,2 +1,2 @@
 # Kadekbot-Chat (nlp-with-flask)
-![Screenshot](http://127.0.0.1:5000/)
+![Screenshot](https://drive.google.com/file/d/1c4HYPleNcFfZoj0Dyf4wDCHjgMNpYG3F/view?usp=sharing)
